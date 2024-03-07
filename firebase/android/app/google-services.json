@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345988812164",
+    "project_id": "fir-d084b",
+    "storage_bucket": "fir-d084b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345988812164:android:17c07b487ff83c59baa1d1",
+        "android_client_info": {
+          "package_name": "com.chavi.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyjvruqF_nNX-yYgHscRwhJ0fulV-kd1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
